@@ -9,26 +9,26 @@
     }
   },
   "TEAM_AVAILABILITY": {
-    "ONLINE": "We are online",
-    "OFFLINE": "We are away at the moment"
+    "ONLINE": "Suntem disponibili",
+    "OFFLINE": "Nu suntem disponibili pentru moment"
   },
   "REPLY_TIME": {
-    "IN_A_FEW_MINUTES": "Typically replies in a few minutes",
-    "IN_A_FEW_HOURS": "Typically replies in a few hours",
-    "IN_A_DAY": "Typically replies in a day"
+    "IN_A_FEW_MINUTES": "Rapsunde deobicei in cateva minute",
+    "IN_A_FEW_HOURS": "Rapsunde deobicei in cateva ore",
+    "IN_A_DAY": "Rapsunde deobicei intr-o zi"
   },
-  "START_CONVERSATION": "Start Conversation",
-  "START_NEW_CONVERSATION": "Start a new conversation",
+  "START_CONVERSATION": "Incepe discutia",
+  "START_NEW_CONVERSATION": "Incepe o noua discutie",
   "UNREAD_VIEW": {
     "VIEW_MESSAGES_BUTTON": "Vezi mesajele noi",
     "CLOSE_MESSAGES_BUTTON": "Închide",
-    "COMPANY_FROM": "from",
-    "BOT": "Bot"
+    "COMPANY_FROM": "de la",
+    "BOT": "Robot"
   },
   "BUBBLE": {
-    "LABEL": "Chat with us"
+    "LABEL": "Discuta cu noi"
   },
-  "POWERED_BY": "Oferit de Chatwoot",
+  "POWERED_BY": "",
   "EMAIL_PLACEHOLDER": "Te rugăm să introduci adresa de e-mail",
   "CHAT_PLACEHOLDER": "Scrie mesajul tău",
   "TODAY": "Astăzi",
@@ -36,36 +36,36 @@
   "PRE_CHAT_FORM": {
     "FIELDS": {
       "FULL_NAME": {
-        "LABEL": "Full Name",
+        "LABEL": "Nume întreg",
         "PLACEHOLDER": "Te rugăm să introduci un nume valid",
-        "ERROR": "Full Name is required"
+        "ERROR": "Numele întreg este obligatoriu"
       },
       "EMAIL_ADDRESS": {
-        "LABEL": "Adresa Email",
-        "PLACEHOLDER": "Please enter your email address",
-        "ERROR": "Invalid email address"
+        "LABEL": "Adresă email",
+        "PLACEHOLDER": "Te rugăm introdu adresa de email",
+        "ERROR": "Adresă de email invalidă"
       },
       "MESSAGE": {
-        "LABEL": "Message",
-        "PLACEHOLDER": "Please enter your message",
-        "ERROR": "Message too short"
+        "LABEL": "Mesaj",
+        "PLACEHOLDER": "Te rugăm introdu mesajul",
+        "ERROR": "Mesaj prea scurt"
       }
     }
   },
-  "FILE_SIZE_LIMIT": "File exceeds the {MAXIMUM_FILE_UPLOAD_SIZE} attachment limit",
+  "FILE_SIZE_LIMIT": "Fișierul depășește limita maximă de {MAXIMUM_FILE_UPLOAD_SIZE}",
   "CHAT_FORM": {
     "INVALID": {
-      "FIELD": "Invalid field"
+      "FIELD": "Câmp invalid"
     }
   },
   "CSAT": {
-    "TITLE": "Rate your conversation",
-    "SUBMITTED_TITLE": "Thank you for submitting the rating",
-    "PLACEHOLDER": "Tell us more..."
+    "TITLE": "Evaluează conversația",
+    "SUBMITTED_TITLE": "Mulțumim pentru evaluare",
+    "PLACEHOLDER": "Spune-ne mai multe ..."
   },
   "EMAIL_TRANSCRIPT": {
-    "BUTTON_TEXT": "Request a conversation transcript",
-    "SEND_EMAIL_SUCCESS": "The chat transcript was sent successfully",
+    "BUTTON_TEXT": "Cere o copie a conversației",
+    "SEND_EMAIL_SUCCESS": "Copia conversației a fost transmisă cu succes",
     "SEND_EMAIL_ERROR": "A apărut o eroare, încercați din nou"
   }
 }
